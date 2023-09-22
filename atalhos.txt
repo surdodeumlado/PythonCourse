@@ -1,7 +1,0 @@
-ctrl ; == comenta automaticamente as linhas adicionadas
-
-clicar na linha, ctrl c, ctrl v == copia automaticamente p/baixo
-
-ctrl c no terminal == interrompe execução
-
-f2 == clicar na variavel e apertar f2 faz com que mudemos TODAS as variaveis que tiverem aquele nome
