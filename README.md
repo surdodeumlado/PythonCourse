@@ -1,7 +1,7 @@
 # PythonCourse
 
 # PT-BR
-# Repositório criado apenas para guardar meu progresso no aprendizado de Python e Framework Django.
+# Repositório criado apenas para guardar meu progresso no aprendizado de Python.
 
 # ENG
-# Repository created just to save my learning progress on Python and Django Framework.
+# Repository created just to save my learning progress on Python.
