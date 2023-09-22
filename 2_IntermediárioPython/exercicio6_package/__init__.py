@@ -1,0 +1,1 @@
+from exercicio6_package.produtos_modulo import produtos
